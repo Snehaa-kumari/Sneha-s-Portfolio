@@ -658,7 +658,7 @@ footer span a{
 
 }
 
-@media(max-width: 500px){
+@media(max-width: 430px){
       .home .max-width {
         flex-direction: column-reverse; 
         padding: 0 20px;
@@ -675,8 +675,8 @@ footer span a{
         padding: 6px 14px;
     }
     .home .max-width img {
-        height: 450px;
-        width: 400px;
+        height: 400px;
+        width: 350px;
         margin-top: 100px;
     }
      .about .about-content {
