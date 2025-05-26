@@ -658,7 +658,7 @@ footer span a{
 
 }
 
-@media(max-width: 550px){
+@media(max-width: 500px){
       .home .max-width {
         flex-direction: column-reverse; 
         padding: 0 20px;
